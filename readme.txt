@@ -69,5 +69,3 @@ This is a VERY BASIC BETA version of this module. It only includes basic functio
 
 Released under the following license:
 Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License
-
-Some Screenshots
