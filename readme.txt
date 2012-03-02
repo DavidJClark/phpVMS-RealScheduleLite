@@ -67,8 +67,6 @@ Any aircraft and routes that do not follow this method need to be disabled in th
 
 This is a VERY BASIC BETA version of this module. It only includes basic functionality and does not include the New England Virtual route builder and mapping functions.
 
-Nabeel has set up a bug tracker for REALScheduleLite here -> http://bugs.phpvms.net/browse/RSL Please use it to report bugs,, THANKS! ;)
-
 Released under the following license:
 Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License
 
